@@ -1,0 +1,11 @@
+{
+  "name": "pecosa",
+  "owner": { "name": "Pecosa" },
+  "plugins": [
+    {
+      "name": "ai-job-search-skills",
+      "source": "./",
+      "description": "Job search check and sync prep skills for Claude Code."
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ai-job-search-skills",
+  "version": "0.1.0",
+  "description": "Two Claude Code skills for job hunting: check live job boards and draft honest applications, and turn meeting notes into prep and status drafts. Both stop before sending or submitting anything.",
+  "author": { "name": "Pecosa", "url": "https://github.com/Pecosa" },
+  "license": "MIT"
+}
